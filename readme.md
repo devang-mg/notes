@@ -1,0 +1,24 @@
+
+# Notes: 
+- [ ] use raster to host images in meta tag for ex og.png
+- [ ] check development code and remove it 
+- [ ] check names of classes and remove any generic classes for ex `left`
+- [ ] check for spaces forex: `=" hello"`
+- [ ] no external library
+- [ ] don't add any redirect 
+- [ ] check for spelling mistakes
+- [ ] no need to use short names just to be short. It's better to be descriptive
+- [ ] give proper class names and remove `-webkit or -moz`
+- [ ] don't be specific for css, it will lead to bigger build sizes
+- [ ] Aria-labels need to be human friendly
+- [ ] Give proper names
+- [ ] Don't write extra html and css
+- [ ] Remove unnecessary divs
+- [ ] check each file for changes and bugs
+- [ ] use tailwind classes instead of css
+- [ ] use tailwind config
+- [ ] Remove all browser-specific properties
+- [ ] Using `document[0]` .... `document[1]` ... etc. is not a good convention. Please consider revising it so that the order of the data is not used to build the page. For example, pass header data into the header, not `document[0]`.
+- [ ] remove `!` important and use tailwind css
+- [ ] Remove extra style tag
+- [ ] Please don't use camel case convention for naming colors. Tailwind uses snake-case, we should mirror that. For example it should be `blue-green`
