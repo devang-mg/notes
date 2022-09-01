@@ -22,3 +22,10 @@
 - [ ] remove `!` important and use tailwind css
 - [ ] Remove extra style tag
 - [ ] Please don't use camel case convention for naming colors. Tailwind uses snake-case, we should mirror that. For example it should be `blue-green`
+- [ ] Don't change anything unnecessarily
+- [ ] Add meta tags and check site via wave extension and web.dev
+- [ ] change name in package json and webmanifest
+- [ ] add fallback fonts
+- [ ] move css to css files
+- [ ] check website in all different browsers
+- [ ] check for overscroll 
